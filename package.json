@@ -1,0 +1,11 @@
+{
+  "name": "accessors",
+  "version": "0.0.0",
+  "description": "experiment with em5 getters setters in order to demonstrate benefits of model as in MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "devs@af83.com",
+  "license": "BSD-2-Clause"
+}
