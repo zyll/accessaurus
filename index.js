@@ -8,6 +8,7 @@ var Dinosaurus = function() {
     },
     set: function(value) {this._height = value;}
   });
+  this._height = 0;
 };
 
 module.exports = Dinosaurus;
